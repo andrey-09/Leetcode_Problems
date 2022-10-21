@@ -2,6 +2,8 @@ class Solution:
     def mySqrt(self, x: int) -> int:
 
         #and the try a binary search
+        # Time: O(logn) 
+        #Space O(1)
         
         left, right=0, x
         
