@@ -1,6 +1,10 @@
 #MEDIUM
+#Time: O(n*logn)
+#Space: O(logn), because of recursion
+
 #Runtime: 1740 ms, faster than 23.68% of Python3 online submissions for Sort List.
 #Memory Usage: 36.5 MB, less than 56.91% of Python3 online submissions for Sort List.
+#----------------
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
